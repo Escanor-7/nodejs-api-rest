@@ -1,0 +1,27 @@
+{
+  "name": "api-rest-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Escanor-7/nodejs-api-rest.git"
+  },
+  "author": "carlos silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Escanor-7/nodejs-api-rest/issues"
+  },
+  "homepage": "https://github.com/Escanor-7/nodejs-api-rest#readme",
+  "dependencies": {
+    "@types/node": "^16.11.12",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "save-dev": "0.0.1-security"
+  }
+}
