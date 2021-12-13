@@ -4,7 +4,7 @@ Ferramentas utilizadas:\
 Nodejs;\
 Express;\
 MySql;\
-Postman;.
+Insomnia;.
 
 Descrição:\
 Através dessa API é possível realizar todo o CRUD do atendimento.\
